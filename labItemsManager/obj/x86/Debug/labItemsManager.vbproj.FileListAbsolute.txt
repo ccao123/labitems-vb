@@ -1,0 +1,17 @@
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.exe.config
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.pdb
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.xml
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\WindowsApplication1.frm_Main.resources
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\labItemsManager.exe
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\labItemsManager.xml
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\labItemsManager.pdb
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.exe.manifest
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.application
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\labItemsManager.exe.manifest
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\obj\x86\Debug\labItemsManager.application
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItems.accdb
+D:\Family\Yuxun\RFID\labItemsManager\labItemsManager\bin\Debug\labItemsManager.exe
